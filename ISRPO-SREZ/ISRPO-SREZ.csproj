@@ -110,18 +110,21 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\ExcelIcon.png" />
+    <Resource Include="Resources\ExcelIcon.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\WordIcon.png">
+    <Resource Include="Resources\WordIcon.png">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </None>
+    </Resource>
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\LineDig.png" />
+    <Resource Include="Resources\LineDig.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\CircleDig.png" />
+    <Resource Include="Resources\CircleDig.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\diagr.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

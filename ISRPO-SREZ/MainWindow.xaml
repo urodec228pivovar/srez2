@@ -7,8 +7,8 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <Label Content="Сформировать чек" HorizontalAlignment="Left" Margin="566,224,0,0" VerticalAlignment="Top" Width="163"/>
-        <StackPanel Margin="566,90,86,268" Orientation="Horizontal" >
+        <Label Content="Сформировать чек" HorizontalAlignment="Left" Margin="570,160,0,0" VerticalAlignment="Top" Width="163"/>
+        <StackPanel Margin="570,75,80,285" Orientation="Horizontal" >
             <Button x:Name = "BT1" Background="White" Click="BT1_Click" >
                 <Image Source="/Resources/ExcelIcon.png" Height="60" Width="70" />
             </Button>
@@ -18,22 +18,37 @@
         </StackPanel>
 
 
-        <StackPanel Margin="566,255,86,105" Orientation="Horizontal" >
+        <StackPanel Margin="570,190,70,170" Orientation="Horizontal" >
             <Button x:Name = "BT3" Background="White" >
-                <Image Source="/Resources\ExcelIcon.png" Height="60" Width="70" />
+                <Image  Height="60" Width="70" Source="/Resources/ExcelIcon.png" >
+
+
+
+                </Image>
             </Button>
             <Button x:Name = "BT4" Background="White" Image.DpiChanged="Button_DpiChanged" >
-                <Image Height="100" Width="100" Source="/Resources/WordIcon.png"/>
+                <Image Height="57" Width="67" Source="/Resources/WordIcon.png"/>
             </Button>
-           
+
         </StackPanel>
-        <Label Content="Сформировать отчетность" HorizontalAlignment="Left" Margin="566,59,0,0" VerticalAlignment="Top" Width="163"/>
-        <Button Content="Получить" HorizontalAlignment="Left" Margin="288,44,0,0" VerticalAlignment="Top" Height="28" Width="112"/>
-        
-        
-        <ComboBox Name="CB1" HorizontalAlignment="Left" Margin="27,307,0,0" VerticalAlignment="Top" Width="120" SelectionChanged="CB1_SelectionChanged">
+        <Label Content="Сформировать отчетность" HorizontalAlignment="Left" Margin="569,46,0,0" VerticalAlignment="Top" Width="163"/>
+        <Button Content="Получить" HorizontalAlignment="Left" Margin="400,50,0,0" VerticalAlignment="Top" Height="28" Width="120" Click="Button_Click"/>
+
+
+        <ComboBox Name="CB1" HorizontalAlignment="Left" Margin="21,386,0,0" VerticalAlignment="Top" Width="120" SelectionChanged="CB1_SelectionChanged">
             <TextBlock  Text="Фирмы" />
             <TextBlock  Text="Продажи" />
         </ComboBox>
+        <TextBox x:Name="TBO" HorizontalAlignment="Left" Margin="200,55,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="TBN" HorizontalAlignment="Left" Margin="50,55,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Дата начала" HorizontalAlignment="Left" Margin="51,28,0,0" VerticalAlignment="Top"/>
+        <Label Content="Дата окончания" HorizontalAlignment="Left" Margin="200,28,0,0" VerticalAlignment="Top"/>
+        <DockPanel LastChildFill="False" Margin="50,100,270,70">
+            <Label x:Name="LbFIO1" Content="Фамилия + инициалы" DockPanel.Dock="Top" Height="26"/>
+            <TextBox x:Name="TBCont" TextWrapping="Wrap" Text="Артикул Производитель Наименование Количество Цена" DockPanel.Dock="Top" Height="100"/>
+            <Label x:Name="LbFIO2" Content="Фамилия + инициалы" DockPanel.Dock="Top" Height="30"/>
+            <TextBox x:Name="TBCont2" TextWrapping="Wrap" Text="Артикул Производитель Наименование Количество Цена" DockPanel.Dock="Bottom" Height="108"/>
+        </DockPanel>
+        <Image HorizontalAlignment="Left"  Margin="570,276,0,0" VerticalAlignment="Top" Height="139" Width="205" Source="/Resources/diagr.png" />
     </Grid>
 </Window>

@@ -60,5 +60,10 @@ namespace ISRPO_SREZ
                 //printDialog.PrintDocument();
             }
         }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }

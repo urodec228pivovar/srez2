@@ -19,7 +19,6 @@ C:\Users\kosty\Desktop\SaleAPI\ISRPO-SREZ\obj\Debug\Firmi.g.cs
 C:\Users\kosty\Desktop\SaleAPI\ISRPO-SREZ\obj\Debug\Firmi.baml
 C:\Users\kosty\Desktop\SaleAPI\ISRPO-SREZ\obj\Debug\Prodan.g.cs
 C:\Users\kosty\Desktop\SaleAPI\ISRPO-SREZ\obj\Debug\Prodan.baml
-C:\Users\дэнчик блять\Desktop\SaleAPI\ISRPO-SREZ\bin\Debug\Resources\WordIcon.png
 C:\Users\дэнчик блять\Desktop\SaleAPI\ISRPO-SREZ\bin\Debug\ISRPO-SREZ.exe.config
 C:\Users\дэнчик блять\Desktop\SaleAPI\ISRPO-SREZ\bin\Debug\ISRPO-SREZ.exe
 C:\Users\дэнчик блять\Desktop\SaleAPI\ISRPO-SREZ\bin\Debug\ISRPO-SREZ.pdb
