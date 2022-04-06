@@ -1,0 +1,39 @@
+﻿<Window x:Class="ISRPO_SREZ.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ISRPO_SREZ"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Label Content="Сформировать чек" HorizontalAlignment="Left" Margin="566,224,0,0" VerticalAlignment="Top" Width="163"/>
+        <StackPanel Margin="566,90,86,268" Orientation="Horizontal" >
+            <Button x:Name = "BT1" Background="White" Click="BT1_Click" >
+                <Image Source="/Resources/ExcelIcon.png" Height="60" Width="70" />
+            </Button>
+            <Button x:Name = "BT2" Background="White" Image.DpiChanged="Button_DpiChanged" >
+                <Image Source="/Resources/WordIcon.png" Height="60" Width="70" />
+            </Button>
+        </StackPanel>
+
+
+        <StackPanel Margin="566,255,86,105" Orientation="Horizontal" >
+            <Button x:Name = "BT3" Background="White" >
+                <Image Source="/Resources\ExcelIcon.png" Height="60" Width="70" />
+            </Button>
+            <Button x:Name = "BT4" Background="White" Image.DpiChanged="Button_DpiChanged" >
+                <Image Height="100" Width="100" Source="/Resources/WordIcon.png"/>
+            </Button>
+           
+        </StackPanel>
+        <Label Content="Сформировать отчетность" HorizontalAlignment="Left" Margin="566,59,0,0" VerticalAlignment="Top" Width="163"/>
+        <Button Content="Получить" HorizontalAlignment="Left" Margin="288,44,0,0" VerticalAlignment="Top" Height="28" Width="112"/>
+        
+        
+        <ComboBox Name="CB1" HorizontalAlignment="Left" Margin="27,307,0,0" VerticalAlignment="Top" Width="120" SelectionChanged="CB1_SelectionChanged">
+            <TextBlock  Text="Фирмы" />
+            <TextBlock  Text="Продажи" />
+        </ComboBox>
+    </Grid>
+</Window>

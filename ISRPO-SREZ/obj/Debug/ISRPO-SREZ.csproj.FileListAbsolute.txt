@@ -1,0 +1,41 @@
+C:\Users\kosty\Desktop\SaleAPI\ISRPO-SREZ\bin\Debug\Resources\WordIcon.png
+C:\Users\kosty\Desktop\SaleAPI\ISRPO-SREZ\bin\Debug\ISRPO-SREZ.exe.config
+C:\Users\kosty\Desktop\SaleAPI\ISRPO-SREZ\bin\Debug\ISRPO-SREZ.exe
+C:\Users\kosty\Desktop\SaleAPI\ISRPO-SREZ\bin\Debug\ISRPO-SREZ.pdb
+C:\Users\kosty\Desktop\SaleAPI\ISRPO-SREZ\obj\Debug\ISRPO-SREZ.csproj.AssemblyReference.cache
+C:\Users\kosty\Desktop\SaleAPI\ISRPO-SREZ\obj\Debug\ISRPO-SREZ.csproj.SuggestedBindingRedirects.cache
+C:\Users\kosty\Desktop\SaleAPI\ISRPO-SREZ\obj\Debug\MainWindow.g.cs
+C:\Users\kosty\Desktop\SaleAPI\ISRPO-SREZ\obj\Debug\App.g.cs
+C:\Users\kosty\Desktop\SaleAPI\ISRPO-SREZ\obj\Debug\ISRPO-SREZ_MarkupCompile.cache
+C:\Users\kosty\Desktop\SaleAPI\ISRPO-SREZ\obj\Debug\ISRPO-SREZ_MarkupCompile.lref
+C:\Users\kosty\Desktop\SaleAPI\ISRPO-SREZ\obj\Debug\MainWindow.baml
+C:\Users\kosty\Desktop\SaleAPI\ISRPO-SREZ\obj\Debug\ISRPO-SREZ.g.resources
+C:\Users\kosty\Desktop\SaleAPI\ISRPO-SREZ\obj\Debug\ISRPO_SREZ.Properties.Resources.resources
+C:\Users\kosty\Desktop\SaleAPI\ISRPO-SREZ\obj\Debug\ISRPO-SREZ.csproj.GenerateResource.cache
+C:\Users\kosty\Desktop\SaleAPI\ISRPO-SREZ\obj\Debug\ISRPO-SREZ.csproj.CoreCompileInputs.cache
+C:\Users\kosty\Desktop\SaleAPI\ISRPO-SREZ\obj\Debug\ISRPO-SREZ.exe
+C:\Users\kosty\Desktop\SaleAPI\ISRPO-SREZ\obj\Debug\ISRPO-SREZ.pdb
+C:\Users\kosty\Desktop\SaleAPI\ISRPO-SREZ\obj\Debug\Firmi.g.cs
+C:\Users\kosty\Desktop\SaleAPI\ISRPO-SREZ\obj\Debug\Firmi.baml
+C:\Users\kosty\Desktop\SaleAPI\ISRPO-SREZ\obj\Debug\Prodan.g.cs
+C:\Users\kosty\Desktop\SaleAPI\ISRPO-SREZ\obj\Debug\Prodan.baml
+C:\Users\дэнчик блять\Desktop\SaleAPI\ISRPO-SREZ\bin\Debug\Resources\WordIcon.png
+C:\Users\дэнчик блять\Desktop\SaleAPI\ISRPO-SREZ\bin\Debug\ISRPO-SREZ.exe.config
+C:\Users\дэнчик блять\Desktop\SaleAPI\ISRPO-SREZ\bin\Debug\ISRPO-SREZ.exe
+C:\Users\дэнчик блять\Desktop\SaleAPI\ISRPO-SREZ\bin\Debug\ISRPO-SREZ.pdb
+C:\Users\дэнчик блять\Desktop\SaleAPI\ISRPO-SREZ\obj\Debug\ISRPO-SREZ.csproj.SuggestedBindingRedirects.cache
+C:\Users\дэнчик блять\Desktop\SaleAPI\ISRPO-SREZ\obj\Debug\Firmi.g.cs
+C:\Users\дэнчик блять\Desktop\SaleAPI\ISRPO-SREZ\obj\Debug\MainWindow.g.cs
+C:\Users\дэнчик блять\Desktop\SaleAPI\ISRPO-SREZ\obj\Debug\Prodan.g.cs
+C:\Users\дэнчик блять\Desktop\SaleAPI\ISRPO-SREZ\obj\Debug\App.g.cs
+C:\Users\дэнчик блять\Desktop\SaleAPI\ISRPO-SREZ\obj\Debug\ISRPO-SREZ_MarkupCompile.cache
+C:\Users\дэнчик блять\Desktop\SaleAPI\ISRPO-SREZ\obj\Debug\ISRPO-SREZ_MarkupCompile.lref
+C:\Users\дэнчик блять\Desktop\SaleAPI\ISRPO-SREZ\obj\Debug\Firmi.baml
+C:\Users\дэнчик блять\Desktop\SaleAPI\ISRPO-SREZ\obj\Debug\MainWindow.baml
+C:\Users\дэнчик блять\Desktop\SaleAPI\ISRPO-SREZ\obj\Debug\Prodan.baml
+C:\Users\дэнчик блять\Desktop\SaleAPI\ISRPO-SREZ\obj\Debug\ISRPO-SREZ.g.resources
+C:\Users\дэнчик блять\Desktop\SaleAPI\ISRPO-SREZ\obj\Debug\ISRPO_SREZ.Properties.Resources.resources
+C:\Users\дэнчик блять\Desktop\SaleAPI\ISRPO-SREZ\obj\Debug\ISRPO-SREZ.csproj.GenerateResource.cache
+C:\Users\дэнчик блять\Desktop\SaleAPI\ISRPO-SREZ\obj\Debug\ISRPO-SREZ.csproj.CoreCompileInputs.cache
+C:\Users\дэнчик блять\Desktop\SaleAPI\ISRPO-SREZ\obj\Debug\ISRPO-SREZ.exe
+C:\Users\дэнчик блять\Desktop\SaleAPI\ISRPO-SREZ\obj\Debug\ISRPO-SREZ.pdb
